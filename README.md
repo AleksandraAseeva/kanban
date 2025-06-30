@@ -1,6 +1,6 @@
 # Vue.js Task Management Application
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://aleksandraaseeva.github.io/test-vue/)
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://aleksandraaseeva.github.io/kanban/)
 [![Vue.js](https://img.shields.io/badge/vue.js-3.x-brightgreen)](https://vuejs.org/)
 [![Vuex](https://img.shields.io/badge/vuex-4.x-lightgrey)](https://vuex.vuejs.org/)
 
@@ -8,7 +8,7 @@
 
 ## 🌐 Живое демо
 Приложение доступно по ссылке:  
-https://aleksandraaseeva.github.io/test-vue/
+https://aleksandraaseeva.github.io/kanban/
 
 ## ✨ Основные функции
 - 📋 Создание, редактирование и удаление задач
